@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File setup_git.ps1
