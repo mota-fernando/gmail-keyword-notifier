@@ -4,7 +4,7 @@ Este projeto lê emails do Gmail e notifica o usuário na área de trabalho quan
 
 ## 📌 Funcionalidades
 
-- Autenticacao segura via **OAuth 2.0**
+- Autenticacao segura via **OAuth 2.0** (https://console.cloud.google.com)
 - Leitura de emails **nao lidos**
 - Filtro de emails baseado em **palavras-chave**
 - Notificacao automatica na area de trabalho via **NotifyIcon**
@@ -16,7 +16,7 @@ dotnet run
 
 ## Resultado esperado:
 
-	!['Resultado esperado'](result.png)
+![Resultado esperado](result.PNG)
 
 ## 🎯 Próximos Passos:
 
